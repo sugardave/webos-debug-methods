@@ -1,0 +1,5 @@
+Set your logging level in framework_config.json to 99.
+
+Load debug.js in sources.json.
+
+Use debugString(string), debugError(errLvlStr, string), or debugObject(object).
